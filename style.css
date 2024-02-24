@@ -1,0 +1,138 @@
+.first{
+    background-color: #FFECF4;
+    width: 100%;
+    height: 550px;
+
+}
+
+.firstcontainer{
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   height: 40vh;
+   flex-direction: column;
+   margin-bottom: 0;
+}
+
+.headingone{
+   color: rgb(255, 159, 200);
+   font-family: 'Sevillana', cursive;
+   font-size: 60px;
+   font-weight: bold;
+}
+
+.pearlone{
+   height: 5rem;
+   align-self: flex-start;
+   margin-left: 60px;
+   margin-top: 60px;
+   display: inline;
+}
+
+.pearltwo{
+   height: 7rem;
+   position: relative;
+   align-self: flex-end;
+   margin-right: 100px;
+}
+
+
+.headingtwo{
+   color: rgb(231, 159, 255);
+   font-family: 'M PLUS 1p', sans-serif;
+}
+
+.pearlthree{
+   height: 150px;
+   justify-content: center;
+   align-items: end;
+
+}
+
+.thatsme{
+   font-family: 'M PLUS 1p', sans-serif;
+   font-size: 30px;
+   color:rgb(255, 159, 200) ;
+   font-weight: bold;
+}
+
+#dp{
+   border-radius: 50%;
+}
+
+.thirdcontainer{
+   display: flex;
+   flex-wrap: nowrap;
+   height: 100vh;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.skilldiv{
+   width: 500px;
+}
+
+.skillimages{
+   height: 200px;
+   width: 200px;
+   float: left;
+   border-radius: 50%;
+   border: 3px double skyblue;
+   padding: 20px;
+   margin-right: 10px;
+}
+
+#skillpara{
+   margin-top:60px;
+   display: inline;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: center;
+}
+
+.starfish{
+   height: 40px;
+}
+.starfishcontainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 0;
+   margin-bottom: 50px;
+   margin-top: 0;
+   
+}
+
+.mermaid{
+  height: 250px;
+  margin-bottom: 20px;
+}
+
+#contactmebutton{
+   background-color: rgb(255, 159, 200) ;
+   color: azure;
+}
+
+#getintouch {
+   color:  rgb(231, 159, 255);
+   font-family: 'M PLUS 1p', sans-serif;
+   font-size: 30px;
+}
+
+#footer{
+   background-color:  rgb(231, 159, 255) ;
+}
+
+.aaa{
+   color:#FFECF4 ;
+   margin-right: 20px;
+   margin-left: 20px;
+}
+
+.aaa:hover {
+   color: #eaf6f6;
+}
+
+
+
